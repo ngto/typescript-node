@@ -1,4 +1,4 @@
-# typescript-study（ts学习笔记）
+# typescript-node（ts笔记）
 
 ## 1、基本类型
 1. 布尔值(boolean)
