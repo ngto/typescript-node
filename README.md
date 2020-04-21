@@ -96,3 +96,5 @@
     console.log(p1);
     // p1.id = 2222; // error  不可更改
    ```
+
+[参考文档](https://ts.xcatliu.com/ "文档")
