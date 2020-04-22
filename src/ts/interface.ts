@@ -7,6 +7,7 @@ interface Person {
   name: string;
   sex?: string; // 可选属性 可以有也可以没有
   readonly id: number; // 只读属性
+  [propName: string]: any; //任意属性
 }
 
 function createPerson(p: Person) {
